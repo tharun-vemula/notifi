@@ -1,0 +1,14 @@
+{
+  "Operating Systems" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=147","//*[@id='module-2315']/div/div/div[2]/div[1]/a", "zoom" ],
+  "Data Structures" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=151", "//*[@id='module-2318']/div/div/div[2]/div[1]/a", "zoom"],
+  "Algorithms" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=141", "//*[@id='module-2270']/div/div/div[2]/div[1]/a", "lms"],
+  "IT - Workshoop" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=149", "//*[@id='module-2313']/div/div/div[2]/div[1]/a", "zoom"],
+  "IT - Workshop - Lab" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=149", "//*[@id='module-2313']/div/div/div[2]/div[1]/a", "zoom"],
+  "Data Structures - Lab" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=151", "//*[@id='module-2318']/div/div/div[2]/div[1]/a", "zoom"],
+  "DBMS" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=148","//*[@id='module-2268']/div/div/div[2]/div[1]/a", "lms"],
+  "DBMS - Lab" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=148","//*[@id='module-2268']/div/div/div[2]/div[1]/a", "lms"],
+  "BioInformatics" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=150", "//*[@id='module-2312']/div/div/div[2]/div[1]/a", "zoom"],
+  "Probability and Statistics" : ["https://lms.iiitkottayam.ac.in/course/view.php?id=152", "//*[@id='module-2319']/div/div/div[2]/div[1]/a", "zoom"],
+  "nan" : ["0", "0", "0"]
+ 
+}
