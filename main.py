@@ -15,7 +15,7 @@ data = pd.read_csv('CSE/timetable.csv') #get timetable
 
 period = list(data.columns) #get class hour
 
-login("2020BCS0066", "vemulKN86")
+login("USERNAME", "PASSWORD")
 
     
 for i in range(len(period)-1):
@@ -26,7 +26,7 @@ for i in range(len(period)-1):
     class_type = courses[classes][2]
     if classes:
         notify(class_link, join_link, class_type)
-        time.sleep(20)
+        time.sleep(4200)
       
         
         
