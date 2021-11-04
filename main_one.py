@@ -4,7 +4,7 @@ import time
 
 flag = 0
 
-path = "C:\ChromeDriver\chromedriver.exe"
+path = "PATH_TO_CHROME_DRIVER"
 driver = webdriver.Chrome(executable_path=path)
 driver.get("https://lms.iiitkottayam.ac.in/my/")
 
@@ -36,7 +36,7 @@ def notify(a,b,c):
         join = driver.find_element_by_xpath('//*[@id="region-main"]/div[1]/div[1]/form')
         join.click()
         
-#driver.quit()
+driver.quit()
         
 
         
