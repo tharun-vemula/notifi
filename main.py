@@ -26,7 +26,7 @@ for i in range(len(period)-1):
     class_type = courses[classes][2]
     if classes:
         notify(class_link, join_link, class_type)
-        time.sleep(4200)
+        time.sleep(TIME_PERIOD)
       
         
         
